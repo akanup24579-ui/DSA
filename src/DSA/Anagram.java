@@ -21,6 +21,7 @@ public class Anagram {
         String s= "siloooont";
         Anagram a= new Anagram();
        System.out.print(a.anagram(t,s));
+       System.out.println("worked sucessfully");
 
     }
 
